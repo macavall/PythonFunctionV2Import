@@ -61,4 +61,9 @@ def http1(req: func.HttpRequest) -> func.HttpResponse:
         )
 ```
 
+# Errors to be seen
+- Considering we do not have the proper configurations for the Analytics, the code will run and attain the imported libraries.  The completion of the Analytics object will not complete, however.
+
+![image](https://github.com/macavall/PythonFunctionV2Import/assets/43223084/a65653fa-2e9b-4b5a-a3ea-9f9ffe960b76)
+
 
