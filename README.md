@@ -16,7 +16,7 @@ This creates a **Zip File** in the Python Function App Root Directory
 
 ![image](https://github.com/macavall/PythonFunctionV2Import/assets/43223084/c33f2283-ed69-4e42-94e7-766998735d78)
 
-We can then upload this Zip File to the Function App in Azure
+We can then upload this Zip File to the Function App in Azure using this command for **Azure CLI**: `az functionapp deployment source config-zip -g 000pythong561rg -n pythong561fa --src .\Proj3.zip`
 
 ``` Python
 import azure.functions as func
