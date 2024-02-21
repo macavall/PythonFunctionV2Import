@@ -70,3 +70,7 @@ def http1(req: func.HttpRequest) -> func.HttpResponse:
 ![image](https://github.com/macavall/PythonFunctionV2Import/assets/43223084/a65653fa-2e9b-4b5a-a3ea-9f9ffe960b76)
 
 
+
+https://github.com/macavall/PythonFunctionV2Import/assets/43223084/068d739d-3d9e-4217-a445-34ebeef89a1e
+
+
